@@ -3,8 +3,8 @@ Repo with assets that will be used in a meetup about [Karate testing framework](
 
 ## Assets
 - [Slides](Slides.pdf) 
-- [Cats-as-a-service](https://github.com/arcones/cats-as-a-service) HTTP API used as a subject under test
-- [Cats-service-tests](https://github.com/arcones/cats-service-tests) Karate test suite
+- [Cats-as-a-service](https://github.com/arcones/cats-as-a-service) Java HTTP API used as a subject under test
+- [Cats-service-tests](https://github.com/arcones/cats-service-tests) Karate test suite using Maven
 - [Karate Skeleton](https://github.com/arcones/karate-skeleton) Karate empty project
 
 ## Super important!!!
