@@ -5,6 +5,7 @@ Repo with assets that will be used in a meetup about [Karate testing framework](
 - [Slides](Slides.pdf) 
 - [Cats-as-a-service](https://github.com/arcones/cats-as-a-service) HTTP API used as a subject under test
 - [Cats-service-tests](https://github.com/arcones/cats-service-tests) Karate test suite
+- [Karate Skeleton](https://github.com/arcones/karate-skeleton) Karate empty project
 
 ## Super important!!!
 This project contains submodules, so don't forget to, just before you cloned the repo:
